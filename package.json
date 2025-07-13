@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@clerk/clerk-react": "^5.33.0",
+    "@tailwindcss/vite": "^4.1.11",
+    "react-player": "^3.2.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
