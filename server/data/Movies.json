@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Inception",
+    "description": "A mind-bending thriller by Christopher Nolan.",
+    "poster": "https://image.tmdb.org/t/p/w500/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+    "genre": "Action, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "description": "Exploring the far reaches of space and time.",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "genre": "Adventure, Drama"
+  }
+]
